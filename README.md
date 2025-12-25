@@ -9,7 +9,7 @@
 <div align="center">
 
 
-<img src="https://komarev.com/ghpvc/?username=imFluxray&style=flat&color=555" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=imFluxray&style=flat&color=55555" alt="visitor badge"/>
 
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=imFluxray&show_icons=true&hide_border=true&theme=graywhite" />
