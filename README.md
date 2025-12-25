@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<!-- Visitor Counter -->
+
 <img src="https://komarev.com/ghpvc/?username=imFluxray&style=flat&color=555" alt="visitor badge"/>
 
-<!-- GitHub Stats - Minimal Style -->
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=imFluxray&show_icons=true&hide_border=true&theme=graywhite" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imFluxray&layout=compact&hide_border=true&theme=graywhite" />
 
@@ -55,7 +55,6 @@ I like building things that:
 - solve real problems  
 - don’t overcomplicate the experience  
 
-Design first. Code second. Ship fast.
 
 ---
 
