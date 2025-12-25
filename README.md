@@ -13,7 +13,7 @@
 
 
 
-</div>
+
 
 ---
 
@@ -63,6 +63,7 @@ Just a few repos I'm proud of:
 
 ---
 
+</div>
 <div align="center" style="color:#aaa; font-size:13px;">
   Thanks for stopping by 👋  
 </div>
