@@ -12,8 +12,6 @@
 <img src="https://komarev.com/ghpvc/?username=imFluxray&style=flat&color=555555" alt="visitor badge"/>
 
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=imFluxray&show_icons=true&hide_border=true&theme=graywhite" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imFluxray&layout=compact&hide_border=true&theme=graywhite" />
 
 </div>
 
