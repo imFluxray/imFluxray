@@ -21,8 +21,8 @@
 A quick snapshot of the things currently filling my brain:
 
 ### **Active Projects**
-| Project | Description |
-|--------|-------------|
+| Project | Description | Status
+|--------|-------------|--------|
 | **Focuznow** | The ULTIMATE Productivity Suite. Manages everything from to-dos, calander, notes, screen time, and more!. | Active Development |
 | **Synaptic** | A web design agency! Website is in progress of being built. | Active Development |
 | **Synaptic Labs** | An AI app agent. Connect to databases with one click, and build beautiful UI with our amazing 1000 line system prompt. | Active Development |
@@ -34,7 +34,7 @@ A quick snapshot of the things currently filling my brain:
 These projects taught me a lot, even if I’m not actively working on them now:
 
 | Project | Description | Status |
-|--------|--------|
+|--------|--------|--------|
 | **Lyrix Lab** | Create lyric videos with ease using AI. | Paused |
 | **Aureo** | A minimal fork of Firefox. | Permanent Pause |
 | **Complimentary** | Roast/Compliment website generator. | Permanent Pause |
