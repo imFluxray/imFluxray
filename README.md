@@ -23,8 +23,9 @@ A quick snapshot of the things currently filling my brain:
 ### **Active Projects**
 | Project | Description |
 |--------|-------------|
-| **Cloudly** | A modern Roblox GUI Builder with drag-and-drop editing and Lua export. |
-| **Zyra** | A modular Discord bot designed to replace entire bot ecosystems with a unified, polished system. |
+| **Focuznow** | The ULTIMATE Productivity Suite. Manages everything from to-dos, calander, notes, screen time, and more!. |
+| **Synaptic** | A web design agency! Website is in progress of being built. |
+| **Synaptic Labs** | An AI app agent. Connect to databases with one click, and build beautiful UI with our amazing 1000 line system prompt. |
 
 ---
 
