@@ -23,20 +23,25 @@ A quick snapshot of the things currently filling my brain:
 ### **Active Projects**
 | Project | Description |
 |--------|-------------|
-| **Focuznow** | The ULTIMATE Productivity Suite. Manages everything from to-dos, calander, notes, screen time, and more!. |
-| **Synaptic** | A web design agency! Website is in progress of being built. |
-| **Synaptic Labs** | An AI app agent. Connect to databases with one click, and build beautiful UI with our amazing 1000 line system prompt. |
-
+| **Focuznow** | The ULTIMATE Productivity Suite. Manages everything from to-dos, calander, notes, screen time, and more!. | Active Development |
+| **Synaptic** | A web design agency! Website is in progress of being built. | Active Development |
+| **Synaptic Labs** | An AI app agent. Connect to databases with one click, and build beautiful UI with our amazing 1000 line system prompt. | Active Development |
+| **Gamo Launchpad** | Unblocked school games proxy. | Active Development |
+| **Brody** | Fun Geode Mod | Finished |
 ---
 
 ## 💤 Past / Paused Projects
 These projects taught me a lot, even if I’m not actively working on them now:
 
-| Project | Status |
+| Project | Description | Status |
 |--------|--------|
-| **Lyrix Lab** | Create lyric videos with ease using AI. |
-| **Aureo** | A minimal fork of Firefox. |
-| **Complimentary** | Roast/Compliment website generator. |
+| **Lyrix Lab** | Create lyric videos with ease using AI. | Paused |
+| **Aureo** | A minimal fork of Firefox. | Permanent Pause |
+| **Complimentary** | Roast/Compliment website generator. | Permanent Pause |
+| **Zyra** | The Ultimate Discord Bot. Manage your entire server with 100+ modules and setup your entire server with AI instantly! | Paused |
+| **Cloudly** | Lua GUI code builder | Permanently Paused |
+| **TStudio** | Tesla Light Show Maker. Use AI or create them yourself way easier than using a software like xLights! | Permanently Paused |
+| **Tiemstack** | Restore point manager | Permanently Paused |
 
 ---
 
