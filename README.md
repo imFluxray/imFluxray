@@ -1,7 +1,7 @@
-<h1 align="center" style="font-weight:300;">Hey, I'm Fluxray 👋</h1>
+<h1 align="center" style="font-weight:300;">Hey, I'm Fluxray</h1>
 
 <p align="center" style="font-size:15px; color:#777;">
-  I build clean, modern tools for the web — focusing on design, simplicity, and good UX.
+  I build clean, modern tools for the web, focusing on design, simplicity, and good UX.
 </p>
 
 
