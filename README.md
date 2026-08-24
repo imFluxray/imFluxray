@@ -4,18 +4,7 @@
   I build clean, modern tools for the web — focusing on design, simplicity, and good UX.
 </p>
 
----
 
-
-
-
-<img src="https://komarev.com/ghpvc/?username=imFluxray&style=flat&color=555555" alt="visitor badge"/>
-
-
-
-
-</div>
----
 
 ## ✨ What I’m Working On
 A quick snapshot of the things currently filling my brain:
