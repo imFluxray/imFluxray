@@ -30,7 +30,7 @@ These projects taught me a lot, even if I’m not actively working on them now:
 | **Zyra** | The Ultimate Discord Bot. Manage your entire server with 100+ modules and setup your entire server with AI instantly! | Paused |
 | **Cloudly** | Lua GUI code builder | Permanently Paused |
 | **TStudio** | Tesla Light Show Maker. Use AI or create them yourself way easier than using a software like xLights! | Permanently Paused |
-| **Tiemstack** | Restore point manager | Permanently Paused |
+| **Timestack** | Restore point manager | Permanently Paused |
 
 ---
 
