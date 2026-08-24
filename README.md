@@ -48,14 +48,6 @@ I like building things that:
 - solve real problems  
 - don’t overcomplicate the experience  
 
-
----
-
-## My Favorite Projects
-Just a few repos I'm proud of:
-- **Cloudly** — drag-and-drop Roblox UI builder  
-- **Zyra** — Discord bot ecosystem  
-
 ---
 
 
