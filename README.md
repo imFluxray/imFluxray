@@ -6,7 +6,7 @@
 
 
 
-## ✨ What I’m Working On
+## What I’m Working On
 A quick snapshot of the things currently filling my brain:
 
 ### **Active Projects**
@@ -19,7 +19,7 @@ A quick snapshot of the things currently filling my brain:
 | **Brody** | Fun Geode Mod | Finished |
 ---
 
-## 💤 Past / Paused Projects
+## Past / Paused Projects
 These projects taught me a lot, even if I’m not actively working on them now:
 
 | Project | Description | Status |
@@ -34,14 +34,14 @@ These projects taught me a lot, even if I’m not actively working on them now:
 
 ---
 
-## 🛠 Tech & Tools I Use
+## Tech & Tools I Use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,vercel,tailwind,lua,py,github" height="45"/>
 </p>
 
 ---
 
-## 🧠 About My Work
+## About My Work
 I like building things that:
 - feel good to use  
 - look clean  
@@ -51,7 +51,7 @@ I like building things that:
 
 ---
 
-## 📦 My Favorite Projects
+## My Favorite Projects
 Just a few repos I'm proud of:
 - **Cloudly** — drag-and-drop Roblox UI builder  
 - **Zyra** — Discord bot ecosystem  
@@ -60,5 +60,5 @@ Just a few repos I'm proud of:
 
 
 <div align="center" style="color:#aaa; font-size:13px;">
-  Thanks for stopping by 👋  
+  Thanks for stopping by
 </div>
