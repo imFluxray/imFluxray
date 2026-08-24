@@ -52,5 +52,5 @@ I like building things that:
 
 
 <div align="center" style="color:#aaa; font-size:13px;">
-  Thanks for stopping by
+  Thanks for stopping by! 
 </div>
