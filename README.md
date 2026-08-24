@@ -6,7 +6,7 @@
 
 ---
 
-<div align="center">
+
 
 
 <img src="https://komarev.com/ghpvc/?username=imFluxray&style=flat&color=555555" alt="visitor badge"/>
